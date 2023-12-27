@@ -1,7 +1,7 @@
 <h1 align="center">Pamudi Naveesha 👋</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
-- 👯 looking to collaborate on **new projects**
+- 👯 looking to collaborate on New Projects
 
 - 📫 How to reach me **pamudinavee@gmail.com**
 
