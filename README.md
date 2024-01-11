@@ -1,7 +1,7 @@
 <h1 align="center">Pamudi Naveesha 👋</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 350px></picture>
 
 - 👋 Hi, I’m Pamudi Naveesha
 - 👀 I’m a undergraduate at SLIIT
