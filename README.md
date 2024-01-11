@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
 
-<td width="50%" align="left">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
   
 - 👋 Hi, I’m Pamudi Naveesha
 - 👀 I’m a undergraduate at SLIIT
@@ -10,10 +10,7 @@
 - 👯 I’m looking to collaborate on New Projects
 - 📫 How to reach me **pamudinavee@gmail.com**
 
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
-</td>
+
 
 
 
