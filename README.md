@@ -2,14 +2,52 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 👋 Hi, I’m Pamudi Naveesha
 - 👀 I’m a undergraduate at SLIIT
 - 🌱 I’m currently following Software Engineering Specialization 
 - 👯 I’m looking to collaborate on New Projects
 - 📫 How to reach me **pamudinavee@gmail.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+  
+  </td>
+</tr>
+</table>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ## Connect with me
 <p align="left">
