@@ -1,22 +1,22 @@
 <h1 align="center">Pamudi Naveesha 👋</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
-<div>
+<table align="center">
+<tr>
+<td width="50%" align="left">
   
-<div align="right">
-<img  alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
-</div>
-
-<div align="left">  
 - 👋 Hi, I’m Pamudi Naveesha
 - 👀 I’m a undergraduate at SLIIT
 - 🌱 I’m currently following Software Engineering Specialization 
 - 👯 I’m looking to collaborate on New Projects
 - 📫 How to reach me **pamudinavee@gmail.com**
-</div>
 
-</div>
-
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
+</td>
+</tr>
+</table>
 
 
 ## Connect with me
