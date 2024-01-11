@@ -1,9 +1,9 @@
 <h1 align="center">Pamudi Naveesha 👋</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
-<table align="center">
-
-<td width="50%" align="left" border="0px">
+<table align="center" border="0">
+<tr>
+<td width="50%" align="left">
   
 - 👋 Hi, I’m Pamudi Naveesha
 - 👀 I’m a undergraduate at SLIIT
@@ -12,11 +12,10 @@
 - 📫 How to reach me **pamudinavee@gmail.com**
 
 </td>
-<td width="50%" align="center" border="0px">
+<td width="50%" align="center">
   <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
 </td>
-
-
+</tr>
 </table>
 
 
