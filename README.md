@@ -3,7 +3,7 @@
 
 <table align="center">
 
-<td width="50%" align="left">
+<td width="50%" align="left" border="none">
   
 - 👋 Hi, I’m Pamudi Naveesha
 - 👀 I’m a undergraduate at SLIIT
@@ -12,7 +12,7 @@
 - 📫 How to reach me **pamudinavee@gmail.com**
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" border="none">
   <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
 </td>
 
