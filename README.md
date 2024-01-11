@@ -1,8 +1,7 @@
 <h1 align="center">Pamudi Naveesha 👋</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
-<table align="center" border="none">
-<tr>
+
 <td width="50%" align="left">
   
 - 👋 Hi, I’m Pamudi Naveesha
@@ -15,8 +14,7 @@
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
 </td>
-</tr>
-</table>
+
 
 
 ## Connect with me
