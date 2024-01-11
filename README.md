@@ -3,8 +3,8 @@
 
 <div>
   
-<div>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
+<div align="right">
+<img  alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
 </div>
 
 <div align="left">  
