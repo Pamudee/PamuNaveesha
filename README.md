@@ -129,7 +129,7 @@
 
 
 ## GitHub Stats 📊
-![IT20652814's github stats](https://github-readme-stats.vercel.app/api?username=IT20652814&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT20652814&theme=tokyonight" alt="mystreak"/>
-![IT20652814's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT20652814&theme=tokyonight&layout=compact)
+![PamudiNaveesha's github stats](https://github-readme-stats.vercel.app/api?username=PamudiNaveesha&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PamudiNaveesha&theme=tokyonight" alt="mystreak"/>
+![PamudiNaveesha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PamudiNaveesha&theme=tokyonight&layout=compact)
 <br/>
